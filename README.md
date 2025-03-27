@@ -1,4 +1,4 @@
-# IN2010 - Kattungeoppgave (H24)
+# Kattungeoppgave + Sorteringsalgoritmer
 
 Dette repositoriet inneholder løsningen for (Kattunge-oppgaven). Oppgaven omhandler implementering og analyse av flere sorteringsalgoritmer i Python, samt evaluering av deres ytelse.
 
