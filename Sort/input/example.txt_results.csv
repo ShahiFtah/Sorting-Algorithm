@@ -1,0 +1,11 @@
+n, insertion_cmp, insertion_swaps, insertion_time, merge_cmp, merge_swaps, merge_time, bubble_sort_cmp, bubble_sort_swaps, bubble_sort_time, heap_sort_cmp, heap_sort_swaps, heap_sort_time
+0,             0,               0,              0,         0,           0,          0,               0,                 0,                0,             0,               0,              0
+1,             0,               0,              0,         0,           0,          0,               0,                 0,                0,             0,               0,              0
+2,             1,               0,              0,         1,           0,          0,               1,                 0,                0,             1,               0,              0
+3,             3,               2,              0,         3,           0,          0,               3,                 0,                0,             3,               0,              0
+4,             6,               4,              0,         4,           0,          0,               6,                 0,                0,             7,               0,              0
+5,             9,               6,              0,         6,           0,          0,              10,                 0,                0,            12,               0,              0
+6,            12,               8,              0,         9,           0,          0,              15,                 0,                0,            16,               0,              0
+7,            18,              13,              0,        13,           0,          0,              21,                 0,                0,            20,               0,              0
+8,            19,              13,              0,        16,           0,          0,              28,                 0,                0,            27,               0,              0
+9,            27,              20,              0,        20,           0,          0,              36,                 0,                0,            36,               0,              0
